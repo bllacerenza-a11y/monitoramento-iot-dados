@@ -1,0 +1,16 @@
+{
+  "source": "Canal público ThingSpeak 3572190; ESP32/DHT22 simulado no Wokwi",
+  "rows": 272,
+  "first_utc": "2026-11-09T22:44:14+00:00",
+  "last_utc": "2026-11-18T14:47:04+00:00",
+  "sessions_gap_over_5min": 11,
+  "normal": 253,
+  "attention": 5,
+  "critical": 8,
+  "fault": 6,
+  "fault_with_expected_missing_values": 6,
+  "invalid_rows": 0,
+  "duplicate_entry_ids": 0,
+  "within_session_gaps_over_45s": 155,
+  "rapid_temperature_changes_over_5c": 8
+}
